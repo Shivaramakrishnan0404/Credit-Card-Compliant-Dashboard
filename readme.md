@@ -54,11 +54,11 @@ Most complaints submitted via:
 
 Web: 68.92%
 
+Referral / Phone / Mail / Fax / Email follow with much smaller shares
+
 Snapshot of the Dashboard
 ![Credit Card Complaints Dashboard](cc_dashboard.png)
 
 
-Referral / Phone / Mail / Fax / Email follow with much smaller shares
 
-🖼️ Dashboard Preview
 
