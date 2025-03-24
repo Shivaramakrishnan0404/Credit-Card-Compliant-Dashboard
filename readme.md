@@ -1,6 +1,7 @@
 # 💳 Credit Card Complaints Dashboard | Consumer Insights
 This interactive Credit Card Complaints Dashboard presents a comprehensive analysis of consumer complaints submitted to financial institutions. The dashboard allows users to explore complaint trends, issue types, company responses, and complaint submission channels over time and geography.
 
+Find the Dashboard here : (https://public.tableau.com/app/profile/shivaramakrishnan.rajendran/viz/CCDashboard_17254403523060/Dashboard1)
 ## 📊 Key Metrics
 Total Complaints: 86,893
 
